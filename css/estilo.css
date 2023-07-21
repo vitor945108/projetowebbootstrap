@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+ }
+    figure{display:inline
+    }
+.nav-link{
+    color: black;}
+    ul{
+        margin-right: 170px;
+    }
+    .nav-link:hover{
+        color: red
+    }
+    main{ margin-left: 350px;
+    }
+    h1{ margin-left: 100px;}
+    nav{
+  margin-bottom: 50px;
+    }
+
